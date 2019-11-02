@@ -12,9 +12,6 @@
   <!-- SLICK SLIDER -->
   <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/thirds/slick-1.8.1/slick.min.js"></script>
 
-  <!-- CUSTOM SCRIPTS -->
-  <script src="<?php echo get_template_directory_uri(); ?>/js/custom.js" type="text/javascript" charset="utf-8"></script>
-
   <!-- analytics -->
   <script>
   (function(f,i,r,e,s,h,l){i['GoogleAnalyticsObject']=s;f[s]=f[s]||function(){
