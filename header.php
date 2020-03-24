@@ -14,28 +14,6 @@
 
 		<?php wp_head(); ?>
 
-		<!-- JQUERY -->
-		<script src="<?php echo get_template_directory_uri(); ?>/assets/thirds/jquery-3.4.1/jquery.min.js"></script>
-
-    <!-- BOOTSTRAP -->
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/thirds/bootstrap-4.1.3/css/bootstrap.min.css" />
-
-		<!-- ANIMATE -->
-		<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/thirds/animate/css/animate.css" />
-
-		<!-- SCROLLIFY		 -->
-		<script src="<?php echo get_template_directory_uri(); ?>/assets/thirds/scrollify/jquery.scrollify.js" type="text/javascript" charset="utf-8"></script>
-
-		<!-- FONT AWESOME -->
-		<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/thirds/font-awesome-4.7.0/css/font-awesome.min.css">
-
-		<!-- SLICK SLIDER -->
-		<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/assets/thirds/slick-1.8.1/slick.css"/>
-    <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/assets/thirds/slick-1.8.1/slick-theme.css"/>
-
-    <!-- CUSTOM STYLESHEETS **************************************************** -->
-		<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/stylesheets/screen.css" />
-
 		<script>
       // conditionizr.com
       // configure environment tests
